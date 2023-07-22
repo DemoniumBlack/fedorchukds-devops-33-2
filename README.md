@@ -1,4 +1,4 @@
-## Задание 1. Создать и настроить репозиторий для дальнейшей работы на курсе
+![image](https://github.com/DemoniumBlack/fedorchukds-devops-33-2/assets/139940695/1005db42-dea5-4a86-b6ec-bce8d7cbebd8)## Задание 1. Создать и настроить репозиторий для дальнейшей работы на курсе
 
 В рамках курса вы будете писать скрипты и создавать конфигурации для различных систем, которые необходимо сохранять для будущего использования. 
 Сначала надо создать и настроить локальный репозиторий, после чего добавить удалённый репозиторий на GitHub.
@@ -9,12 +9,14 @@
 2. Создайте публичный репозиторий, который будете использовать дальше на протяжении всего курса, желательное с названием `devops-netology`.
    Обязательно поставьте галочку `Initialize this repository with a README`. 
    
-    ![Диалог создания репозитория](img/github-new-repo-1.jpg)
+    ![image](https://github.com/DemoniumBlack/fedorchukds-devops-33-2/assets/139940695/af770600-2b97-490b-a9fb-27ece1d703f5)
+
     
 3. Создайте [авторизационный токен](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) для клонирования репозитория.
 4. Склонируйте репозиторий, используя протокол HTTPS (`git clone ...`).
  
-    ![Клонирование репозитория](img/github-clone-repo-https.jpg)
+    ![image](https://github.com/DemoniumBlack/fedorchukds-devops-33-2/assets/139940695/c2c1c512-0e88-4e6f-82ed-f66d2a956916)
+
     
 5. Перейдите в каталог с клоном репозитория (`cd devops-netology`).
 6. Произведите первоначальную настройку Git, указав своё настоящее имя, чтобы нам было проще общаться, и email (`git config --global user.name` и `git config --global user.email johndoe@example.com`). 
